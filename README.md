@@ -16,3 +16,7 @@
 
 ![Иллюстрация к проекту](https://github.com/pavel248/Concurrency-and-asynchrony-/raw/main/photo6.jpg)
 
+# CPU-Bound
+Скорость генерации 5 монеток на 1 ядре
+![Иллюстрация к проекту](https://github.com/pavel248/Concurrency-and-asynchrony-/raw/main/photo3.jpg)
+Код с использованием ProcessPoolExecutor
