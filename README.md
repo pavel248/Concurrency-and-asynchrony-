@@ -21,6 +21,8 @@
 ![Иллюстрация к проекту](https://github.com/pavel248/Concurrency-and-asynchrony-/raw/main/photo3.jpg)
 Код с использованием ProcessPoolExecutor
 ![Иллюстрация к проекту](https://github.com/pavel248/Concurrency-and-asynchrony-/raw/main/photo13.jpg)
+![Иллюстрация к проекту](https://github.com/pavel248/Concurrency-and-asynchrony-/raw/main/photo15(2).jpg)
+![Иллюстрация к проекту](https://github.com/pavel248/Concurrency-and-asynchrony-/raw/main/photo15(1).jpg)
 Нагрузка при 2 воркерах
 
 
