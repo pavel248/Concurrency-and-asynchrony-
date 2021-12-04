@@ -20,3 +20,4 @@
 Скорость генерации 5 монеток на 1 ядре
 ![Иллюстрация к проекту](https://github.com/pavel248/Concurrency-and-asynchrony-/raw/main/photo3.jpg)
 Код с использованием ProcessPoolExecutor
+![Иллюстрация к проекту](https://github.com/pavel248/Concurrency-and-asynchrony-/raw/main/photo7.jpg)
